@@ -1,0 +1,11 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+external_data/
+test/
+artifacts/synthetic_base*/
+artifacts/fonts/
+artifacts/synthetic_manifest_*.csv
+artifacts/iiit5k_geometry_features.joblib
+submission_baseline.csv
+artifacts/article_features_10000_42.npz
